@@ -8,10 +8,10 @@ Source of the data: http://stat-computing.org/dataexpo/2009/the-data.html
 ### Pre-requisites
 Here, I am working with Python in Jupyter notebook. We would require installing Anaconda which comes handy with all the packages that I have used in this project. Following are the libraries that needs to be installed before getting started with the Jupyter notebook:
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
 
 ### Findings from Exploratory data analysis: 
 1. Frequency of the trips on different days of a week do not differ much. And quite surprisingly, the rush during weekends is comparatively less. 
