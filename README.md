@@ -5,6 +5,14 @@ This project majorly dives into Data Exploration through Univariate, Bivariate a
 Here I have chosen a dataset that reports flights in the United States, including carriers, arrival and departure delays, and reasons for delays. I have combined data from four different years: 2003,2004,2005 and 2006. 
 Source of the data: http://stat-computing.org/dataexpo/2009/the-data.html 
 
+### Pre-requisites
+Here, I am working with Python in Jupyter notebook. We would require installing Anaconda which comes handy with all the packages that I have used in this project. Following are the libraries that needs to be installed before getting started with the Jupyter notebook:
+
+Numpy
+Pandas
+Matplotlib
+Seaborn
+
 ### Findings from Exploratory data analysis: 
 1. Frequency of the trips on different days of a week do not differ much. And quite surprisingly, the rush during weekends is comparatively less. 
 2. The most sought after airlines is WN and it wins by a pretty large margin. 
